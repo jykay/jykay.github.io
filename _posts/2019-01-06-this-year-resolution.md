@@ -20,7 +20,7 @@ Here is the list of projects that I want to accomplish as this year's resolution
 ```
 
 
-Also, here is the list of personal goal for the resolution.
+Also, here is the list of my personal goals as resolution.
 
 ```
 1. Weight loss up to 170 lb
@@ -29,8 +29,9 @@ Also, here is the list of personal goal for the resolution.
 4. Record the post in a daily basis
 ```
 
+I wish I follow  all of my resoluton in a proper manner. If there is any interrupt or event happened, I will let you know.
 
 
 ---
 
-Today's comment: This is my first one. Of course, this website is my first time using github pages. I like it so far.
+Today's comment: This is my first one. Of course, this website is my first time based on Github Pages. I like it so far. Took me a whole day to figure out how to make it work though.
