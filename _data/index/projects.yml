@@ -5,7 +5,7 @@
   i18n: SDR
   gh_user: jykay
   repo: sdr_stuff
-  img: /static/assets/img/landing/gnuradio_logo.svg
+  img: /static/assets/img/landing/gnuradio_logo.png
   desc: This project is to connect to SDR device such as hackRF, RTL, USRP for research purpose.
 
 - name: Python Misc
