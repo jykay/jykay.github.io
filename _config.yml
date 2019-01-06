@@ -28,7 +28,7 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: fa-linux
     - name: icon-apache
-  desc: Experienced Senior Engineer in the automotive industry. Strong engineering professional skilled in Python, C++, Matlab, Linux, and Algorithms. # Describe yourself.
+  desc: Experienced Senior Engineer in the manufacturing industry. Strong engineering professional skilled in Python, C++, Matlab, Linux, and Algorithms. # Describe yourself.
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
