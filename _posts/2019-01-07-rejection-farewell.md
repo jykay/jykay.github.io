@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Rejection & Farewell"
-date:   2019-01-06
+date:   2019-01-07
 desc: "Resolution"
 keywords: "Job Hunting, old-fashioned"
 categories: [HTML]
